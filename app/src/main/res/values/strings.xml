@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tabungan MI  Adi Poday</string>
+
+    <!--drawer-->
+    <string-array name="nav_drawer_title">
+        <item>Transaksi</item>
+        <item>Nasabah</item>
+    </string-array>
+
+    <!--/app-->
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+
+    <!--error handler-->
+    <string name="err_no_username">Masukkan username</string>
+    <string name="err_login">Login gagal, pastikan username / password benar</string>
+    <string name="err_empty">Belum ada data</string>
+    <string name="err_server">Gagal terhubung dengan server</string>
+    <string name="err_ud_id">Sedang dalam pengembangan</string>
+    <string name="err_device_not_connect">Device anda saat ini tidak dapat terhubung dengan server kami, pastikan koneksi internet anda stabil dan coba lagi, apabila hal ini tetap berlangsung dalam keadaan lama anda bisa menghubungi administrator kami untuk mendapat bantuan.</string>
+    <string name="err_offline">Tidak terhubung dengan server, anda hanya bisa mengakses fitur terbatas</string>
+
+    <string name="dev" translatable="false"><![CDATA[<b><font color=#d50000>&lt;/</font><font color=#64dd17>dev</font><font color=#d50000>></font></b>]]></string>
+</resources>
